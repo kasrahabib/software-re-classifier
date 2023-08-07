@@ -1,7 +1,7 @@
 # Deep Learning-based Classification of Software Requirements: A Large-Scale Dataset and Evaluation
 
 ## Short Description:
-This project is the efforts of a research endeavor aimed at establishing the initial extensive Software Requirements Dataset (SWARD), in requirements engineering domain (RE), and employing transfer learning to meticulously fine-tune universally adaptable models. These models are intended for the classification of software requirements into functional and non-functional categories, encompassing 19 distinct types of non-functional subclass requirements.
+This project is the efforts of a research endeavor aimed at establishing the initial extensive Software Requirements Dataset (SWARD), in requirements engineering domain (RE), and employing more generalisable transfer learning to meticulously fine-tune universally adaptable models. These models are intended for the classification of software requirements into functional and non-functional categories, encompassing 19 distinct types of non-functional subclass requirements.
 
 
 | Paper Abstract  |
