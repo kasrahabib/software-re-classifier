@@ -3,6 +3,8 @@
 ## Short Description:
 This project is the efforts of a research endeavor aimed at establishing the initial extensive Software Requirements Dataset (SWARD), in requirements engineering domain (RE), and employing more generalisable transfer learning to meticulously fine-tune universally adaptable models. These models are intended for the classification of software requirements into functional and non-functional categories, encompassing 19 distinct types of non-functional subclass requirements.
 
+### Further Reading:
+For a more comprehensive understanding and further considerations, we invite you to consult the accompanying published paper.
 
 | Paper Abstract  |
 |-----------------------------------------|
@@ -15,6 +17,7 @@ This project is the efforts of a research endeavor aimed at establishing the ini
 * [f_nf_classifier_model](https://github.com/kasrahabib/software-re-classifier/tree/main/f_nf_classifier_model) contains three fine-tuned models for the binary classification of software requirements into functional and non-functional requirements.
 * [nf_subclasses_classifier_model](https://github.com/kasrahabib/software-re-classifier/tree/main/nf_subclasses_classifier_model) contains one fine-tuned model for the classification of 19 non-functional software requirements.<br>
 **Note:** For usage and more details, navigate to the subdirectories.
+
 
 ## Acknowledgment:
 We want to express our appreciation to the Hugging Face API for its pivotal role in our research endeavor. Our models are built upon the foundation of transfer learning, drawing from the reservoir of [all-MiniLM-L6-v2](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2) model hosted on Hugging Face. The project owes a debt of gratitude to the open-source principles fostered by Hugging Face, which have undeniably contributed to shaping the triumph of our undertaking. It is with great pride that we align ourselves with this trailblazing community of innovators.
