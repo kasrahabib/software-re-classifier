@@ -1,4 +1,4 @@
-Within this repository, a trio of meticulously fine-tuned models for binary software requirements classification are presented. These models categorize requirements into functional (F) and non-functional (NF) domains.
+Within this repository, a fine-tuned model for non-functional software requirements classification.
 
 ## [KM35NCDF](https://github.com/kasrahabib/software-re-classifier/tree/main/nf_subclasses_classifier_model/KM35NCDF) Model: 
 
