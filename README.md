@@ -7,11 +7,8 @@ This project is the efforts of a research endeavor aimed at establishing the ini
 | Paper Abstract  |
 |-----------------------------------------|
 |**Purpose**: Automatic classification software requirments using machine and deep learning has so far lacked generalization due to the absence of a large-scale and high-quality labeled requirements dataset. In this study, we introduce a large-scale software requirements dataset, then investigate the generalization capabilities of the transfer learning-based approach by fine-tuning classifiers on varying subsets of this dataset.<br>
-
 **Methods:** We created the Software Requirements Dataset (SWARD) by combining publicly disclosed and non-disclosed software projects. Next, we apply a novel approach to labeling requirements as functional (F) and non-functional (NF), including 19 NF subclasses. Finally, we create different subsets of the SWARD and use transfer learning to classify requirements. We evaluate the trained models and compare our results with previous works.<br>
-
 **Results** SWARD includes 43,777 requirement texts, with ca. 76% (33,098) from publicly disclosed projects, that will be published in a standardized format with extensive meta-information. Our proposed models, achieving a macro f1-score of 99% for classifying F and NF requirements and 79% for NF subclasses, will be made publicly available. These results outperform the state-of-the-art model, NoRBERT, with a 13% f1-score increase for F and NF classification and with a >40% increase for NF subclasses classification including nine new subclasses.<br>
-
 **Conclusion:** Using SWARD, we were able to achieve measurable improvements in classification tasks for software requirements, overcoming the challenges to the generalization capability of machine and deep leanring-based approaches that commonly occur with smaller datasets.|
 
 
