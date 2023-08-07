@@ -1,4 +1,4 @@
-# kasrahabib/KM45L6V2TOTC
+# KM45L6V2TOTC
 
 This model is a fine-tuned version of [sentence-transformers/all-MiniLM-L6-v2](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2), for classifying software requirements into functional (F) and Non-functional (NF) types, on publicly disclosed subset of Software Requirements Dataset (SWARD). It achieves the following results on the evaluation set; non-disclosed subset of SWARD:
 - Train Loss: 0.0040
@@ -10,6 +10,8 @@ This model is a fine-tuned version of [sentence-transformers/all-MiniLM-L6-v2](h
 0 or F -> Functional;
 1 or NF -> Non-functional;
 
+## Demo on Hugging Face:
+For a **quick demonstration** of the model's capabilities on Hugging Face, please click [here](https://huggingface.co/kasrahabib/KM45L6V2TOTC).
  
 ## Usage Pipeline
 ```python
