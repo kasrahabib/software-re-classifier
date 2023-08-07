@@ -11,7 +11,7 @@ This model is a fine-tuned version of [sentence-transformers/all-MiniLM-L6-v2](h
 1 or NF -> Non-functional;
 
 ## Demo on Hugging Face:
-For a **quick demonstration** of the model's capabilities on Hugging Face, please click [here](https://huggingface.co/kasrahabib/KM45L6V2TOTC).
+For a **quick demonstration** of the model's capabilities on Hugging Face, please click [here](https://huggingface.co/kasrahabib/KM45L6V2TCTO).
 
 ## Usage Pipeline
 ```python
