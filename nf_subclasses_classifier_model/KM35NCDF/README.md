@@ -28,6 +28,8 @@ This model is a fine-tuned version of [sentence-transformers/all-MiniLM-L6-v2](h
 17 or ST -> Stability;
 18 or US -> Usability;
 
+## Demo on Hugging Face:
+For a **quick demonstration** of the model's capabilities on Hugging Face, please click [here](https://huggingface.co/kasrahabib/KM35NCDF).
 
 ## Usage Pipeline
 ```python
