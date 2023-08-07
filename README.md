@@ -13,7 +13,7 @@ This project is the efforts of a research endeavor aimed at establishing the ini
 
 ## Project Content:
 * [f_nf_classifier_model](https://github.com/kasrahabib/software-re-classifier/tree/main/f_nf_classifier_model) contains three fine-tuned models for the binary classification of software requirements into functional and non-functional requirements.
-* [nf_subclasses_classifier_model](https://github.com/kasrahabib/software-re-classifier/tree/main/nf_subclasses_classifier_model/KM35NCDF) contains one fine-tuned model for the classification of 19 non-functional software requirements.<br>
+* [nf_subclasses_classifier_model](https://github.com/kasrahabib/software-re-classifier/tree/main/nf_subclasses_classifier_model) contains one fine-tuned model for the classification of 19 non-functional software requirements.<br>
 **Note:** For usage and more details, navigate to the subdirectories.
 
 ## Acknowledgment:
