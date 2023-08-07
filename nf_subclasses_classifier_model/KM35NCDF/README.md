@@ -1,22 +1,3 @@
----
-license: apache-2.0
-tags:
-- generated_from_keras_callback
-model-index:
-- name: kasrahabib/KM35NCDF
-  results: []
-widget:
-- text: "Application needs to keep track of subtasks in a task."
-  example_title: "Requirment 1"
-- text: "The system shall allow users to enter time in several different formats."
-  example_title: "Requirment 2"
-- text: "The system shall allow users who hold any of the ORES/ORELSE/PROVIDER keys to be viewed as a clinical user and has full access privileges to all problem list options."
-  example_title: "Requirment 3"
----
-
-<!-- This model card has been generated automatically according to the information Keras had access to. You should
-probably proofread and complete it, then remove this comment. -->
-
 # kasrahabib/KM35NCDF
 
 This model is a fine-tuned version of [sentence-transformers/all-MiniLM-L6-v2](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2) on Software Requirements Dataset (SWARD) for classifying 19 Non-functional requirements. Note that based on literature, two out of 19 classes are Data and Behavior, which belong to types of Functional software requirements. It achieves the following results on the evaluation set:
