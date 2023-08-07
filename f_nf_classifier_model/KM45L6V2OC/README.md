@@ -1,22 +1,3 @@
----
-license: apache-2.0
-tags:
-- generated_from_keras_callback
-model-index:
-- name: kasrahabib/KM45L6V2OC
-  results: []
-language:
-- en
-widget:
-- text: "The START NEW PROJECT function shall allow the user to create a new project."
-  example_title: "Requirment 1"
-- text: "The email string consists of x@x.x and is less than 31 characters in length and is not empty."
-  example_title: "Requirment 2"
----
-
-<!-- This model card has been generated automatically according to the information Keras had access to. You should
-probably proofread and complete it, then remove this comment. -->
-
 # kasrahabib/KM45L6V2OC
 
 This model is a fine-tuned version of [sentence-transformers/all-MiniLM-L6-v2](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2), for classifying softwrae requirments into functional (F) and Non-functional (NF) types, on Software Requirements Dataset (SWARD). It achieves the following results on the evaluation set:
