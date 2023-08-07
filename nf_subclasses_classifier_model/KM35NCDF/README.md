@@ -1,6 +1,6 @@
 # kasrahabib/KM35NCDF
 
-This model is a fine-tuned version of [sentence-transformers/all-MiniLM-L6-v2](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2) on Software Requirements Dataset (SWARD) for classifying 19 Non-functional requirements. Note that based on literature, two out of 19 classes are Data and Behavior, which belong to types of Functional software requirements. It achieves the following results on the evaluation set:
+This model is a fine-tuned version of [sentence-transformers/all-MiniLM-L6-v2](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2) on Software Requirements Dataset (SWARD) for classifying 19 Non-functional requirements. Note that based on literature, two out of 19 classes are Data and Behavior, belong to types of Functional software requirements. It achieves the following results on the evaluation set:
 - Train Loss: 0.1691
 - Validation Loss: 0.7548
 - Epoch: 14
