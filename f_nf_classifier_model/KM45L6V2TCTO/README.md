@@ -11,7 +11,7 @@ This model is a fine-tuned version of [sentence-transformers/all-MiniLM-L6-v2](h
 1 or NF -> Non-functional;
 
 ## Demo on Hugging Face:
-For a **quick demonstration** of the model's capabilities on Hugging Face, please click [here](https://huggingface.co/kasrahabib/KM45L6V2TCTO?text=The+email+string+consists+of+x%40x.x+and+is+less+than+31+characters+in+length+and+is+not+empty.).
+For a **quick demonstration** of the model's capabilities on Hugging Face, please click [here](https://huggingface.co/kasrahabib/KM45L6V2TOTC).
 
 ## Usage Pipeline
 ```python
