@@ -20,6 +20,7 @@ pip install tensorflow==2.11.0
 pip install transformers==4.24.0
 pip install datasets== 2.10.0
 ```
+You may need to install fundamental packages such as NumPy or SciPy, depending on the extent to which your system already incorporates essential machine learning libraries.
 
 ## Usage Pipeline
 ```python
