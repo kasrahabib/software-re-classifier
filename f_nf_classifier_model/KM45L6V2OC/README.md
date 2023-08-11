@@ -14,6 +14,13 @@ This model is a fine-tuned version of [sentence-transformers/all-MiniLM-L6-v2](h
 ## Demo on Hugging Face:
 For a **quick demonstration** of the model's capabilities on Hugging Face, please click [here](https://huggingface.co/kasrahabib/KM45L6V2OC).
 
+## Required Packages:
+```python
+pip install tensorflow==2.11.0
+pip install transformers==4.24.0
+pip install datasets== 2.10.0
+```
+
 ## Usage Pipeline
 ```python
 from transformers import pipeline
