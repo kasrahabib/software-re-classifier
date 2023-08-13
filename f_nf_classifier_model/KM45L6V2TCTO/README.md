@@ -6,12 +6,20 @@ This model is a fine-tuned version of [sentence-transformers/all-MiniLM-L6-v2](h
 - Epoch: 7
 - Final Macro F1-score: 0.95
 
-<b>Labels</b>: 
+<b>Labels</b>:
 0 or F -> Functional;
 1 or NF -> Non-functional;
 
 ## Demo on Hugging Face:
 For a **quick demonstration** of the model's capabilities on Hugging Face, please click [here](https://huggingface.co/kasrahabib/KM45L6V2TCTO).
+
+## Required Packages:
+```python
+pip install tensorflow==2.11.0
+pip install transformers==4.24.0
+pip install datasets== 2.10.0
+```
+You may need to install fundamental packages such as NumPy or SciPy, depending on the extent to which your system already incorporates essential machine learning libraries.
 
 ## Usage Pipeline
 ```python
@@ -69,7 +77,7 @@ git clone url_of_repo
 ```
   2  - Locate the path to the downloaded directory <br>
   3  - Write the link to the path in the ```model_ckpt``` variable <br>
-    
+
 Then modify the code as below:
 ```python
 import numpy as np
